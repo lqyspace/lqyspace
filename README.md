@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm lqyspace, a loving-code newer.
+
+- I'm studying in School Of Computer Science And Engineering Northeastern University in Liao Ning.
 
 <!--
 **lqyspace/lqyspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
